@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Vivian-Esangodudu/Vivian-Esangodudu**A dynamic and analytical professional who has successfully transitioned from a Customer Support Specialist to a Solutions Architect and is adept in various solutions architecture methodologies. Possesses a strong foundation in IT, understands the importance of customer service, and has excellent communication and interpersonal skills. 
 
 Skills:
@@ -21,7 +21,7 @@ Transferable Skills:
 - Strong presentation skills and experience in training, coaching, and mentoring new hires (third-party partners and staff)
 - Ability to work under pressure and prioritize tasks effectively
 - Skilled in generating client-facing documentation through technical writing
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
