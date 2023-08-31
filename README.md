@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Vivian_Esangodudu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivian-esangodudu/)](https://www.linkedin.com/in/vivian-esangodudu/) 
 
-Vivian Esangodudu is a dynamic and analytical professional who has successfully transitioned from a Customer Support Specialist to a Solutions Architect and is adept in various solutions architecture methodologies. Possesses a strong foundation in IT, understands the importance of customer service, and has excellent communication and interpersonal skills. 
+👩‍💻 Vivian Esangodudu is a dynamic and analytical professional who has successfully transitioned from a Customer Support Specialist to a Solutions Architect and is adept in various solutions architecture methodologies. Possesses a strong foundation in IT, understands the importance of customer service, and has excellent communication and interpersonal skills. 
 
-Skills:
+## Skills:
 - Software Architecture
 - Design Patterns
 - Microservices
@@ -13,7 +14,7 @@ Skills:
 - Leadership
 -Excellent communication to technical and non-technical customers 
 
-Transferable Skills:
+## Transferable Skills:
 
 - Strong problem-solving skills backed by excellent communication skills
 - Proven ability to analyze complex business problems and develop solutions
